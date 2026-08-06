@@ -3,8 +3,9 @@
     "Id": "config-gf",
     "Name": "Config GF",
     "Description": "Preset ReShade, configuration data et pack de mods visuels/optimisation.",
-    "PreviewUrl": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf/03041.mp4",
+    "PreviewUrl": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf/config-gf-thumb.jpg",
     "PreviewIsVideo": true,
+    "VideoUrl": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf/03041.mp4",
     "CreatedDisplay": "06/08/2026",
     "Items": [
       { "Type": "reshade", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf/ZokenPreset2.ini", "FileName": "ZokenPreset2.ini" },
