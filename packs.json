@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "Id": "config-gf",
+    "Name": "Config GF",
+    "Description": "Preset ReShade, configuration data et pack de mods visuels/optimisation.",
+    "PreviewUrl": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf/03041.mp4",
+    "PreviewIsVideo": true,
+    "CreatedDisplay": "06/08/2026",
+    "Items": [
+      { "Type": "reshade", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf/ZokenPreset2.ini", "FileName": "ZokenPreset2.ini" },
+      { "Type": "data", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf/k.zip", "FileName": "k.zip" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/LA_REVO_Vegetation_Vegetation_Texture_Overhaul.rpf", "FileName": "LA_REVO_Vegetation_Vegetation_Texture_Overhaul.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/NoPixel.rpf", "FileName": "NoPixel.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/Opti.rpf", "FileName": "Opti.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/a_CATUSSE_Package_VisualOptimisation_NG.rpf", "FileName": "a_CATUSSE_Package_VisualOptimisation_NG.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/clouds.rpf", "FileName": "clouds.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/hud_rose_noir.rpf", "FileName": "hud_rose_noir.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/neiv_noparticles.rpf", "FileName": "neiv_noparticles.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/red.white.rpf", "FileName": "red.white.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/road.rpf", "FileName": "road.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/shaders_cave_particles.rpf", "FileName": "shaders_cave_particles.rpf" },
+      { "Type": "rpf", "Url": "https://github.com/ViniDevvv/EkipppPacks/releases/download/pack-config-gf-mods/z_NVE_White_Street_Lights.rpf", "FileName": "z_NVE_White_Street_Lights.rpf" }
+    ]
+  }
+]
